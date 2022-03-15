@@ -1,0 +1,8 @@
+export { About } from './About'
+export { AddPortfolio } from './AddPortfolio'
+export { Clients } from './Clients'
+export { Contact } from './Contact'
+export { NotFound } from './NotFound'
+export { Portfolios } from './Portfolios'
+export { Services } from './Services'
+export { Team } from './Team'
